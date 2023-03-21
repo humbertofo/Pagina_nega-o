@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Site Bloqueado</title>
+	<style>
+		body {
+			background-color: #1c1c1c;
+			color: #fff;
+			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+			text-align: center;
+			padding: 40px;
+		}
+		h1 {
+			font-size: 42px;
+			margin-bottom: 20px;
+			text-shadow: 2px 2px #000;
+		}
+		p {
+			font-size: 24px;
+			line-height: 1.6;
+			margin-bottom: 40px;
+		}
+		img {
+			display: block;
+			margin: 0 auto 30px;
+			max-width: 100%;
+			height: auto;
+			box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+		}
+	</style>
+</head>
+<body>
+	<img src="https://example.com/images/bloqueado.png" alt="Site Bloqueado">
+	<h1>Site Bloqueado</h1>
+	<p>Este site foi bloqueado pelo seu administrador de rede.</p>
+</body>
+</html>
